@@ -25,13 +25,13 @@ title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
 | 2 | *짜장형* | 32 | 2/23|
 | 3 | 뿡뿡이 | 51 | 9/13 |
 
-## 4. Education
+## 🏫 Education
 
 * 안동대학교 - **"https://www.andong.ac.kr/main/index.do"**
 
 <img src="https://user-images.githubusercontent.com/55431809/123605444-cd5a1a80-d836-11eb-8008-2be708915f99.JPG" width="320px" height="240px"
 title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
 
-
+## Motto
 
 <hr/>
