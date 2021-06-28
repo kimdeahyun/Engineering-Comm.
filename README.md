@@ -31,8 +31,7 @@
 
 * 안동대학교 - **"https://www.andong.ac.kr/main/index.do"**
 
-<img src="https://user-images.githubusercontent.com/55431809/123605444-cd5a1a80-d836-11eb-8008-2be708915f99.JPG" width="320px" height="240px"
-title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
+<img src="https://user-images.githubusercontent.com/55431809/123605444-cd5a1a80-d836-11eb-8008-2be708915f99.JPG" width="320px" height="240px" title="px(픽셀)" align="right"></img><br/>
 
 ## Motto
 
