@@ -58,4 +58,8 @@ http://eogus0779@gmail.com/
 과정에 충실하다 보면 결과는 자연스럽게 따라오게 되어있다.
 ```
 
+## 👊🏼 봉사활동
+<img src="https://user-images.githubusercontent.com/55431809/123637226-bd533280-d858-11eb-8759-5b9bea68b9fc.JPG
+" width="290px" height="290px" title="px(픽셀)" align="left"></img><br/>
+
 <hr/>
