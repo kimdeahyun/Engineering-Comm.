@@ -1,6 +1,6 @@
-> **<img src="https://user-images.githubusercontent.com/55431809/123606726-2aa29b80-d838-11eb-8ca1-cc5efb8f12a8.JPG" width="320px" height="240px"
+> <img src="https://user-images.githubusercontent.com/55431809/123606726-2aa29b80-d838-11eb-8ca1-cc5efb8f12a8.JPG" width="320px" height="240px"
 title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
-> *김대현 | 꾸준히 성장하는 인재*
+> ***김대현 | 꾸준히 성장하는 인재***
 
 <hr/>
 
