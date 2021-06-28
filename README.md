@@ -43,3 +43,11 @@ __double underscores__
 ~~cancelline~~
 
 ![Alt text](https://user-images.githubusercontent.com/55431809/123567059-48eaa600-d7fc-11eb-88c3-280234333573.JPG)
+
+---
+
+| | 이름 | 나이 | 생일 |
+| :-: | :-: | -: | :- |
+| 1 | 홍길동 | 23 | 4/2 |
+| 2 | *짜장형* | 32 | 2/23|
+| 3 | 뿡뿡이 | 51 | 9/13 |
