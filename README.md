@@ -19,9 +19,9 @@ http://eogus0779@gmail.com/
 #### 1. [소개](https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#%EF%B8%8F-%EC%86%8C%EA%B0%9C)
 #### 2. [자격증](https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#-%EC%9E%90%EA%B2%A9%EC%A6%9D)
 #### 3. [활동](https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#-%ED%99%9C%EB%8F%99)
-#### 4. 학력
-#### 5. 좌우명
-#### 6. 봉사활동
+#### 4. [학력](https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#-%ED%95%99%EB%A0%A5)
+#### 5. [좌우명]()
+#### 6. [봉사활동]()
 
 ## 🙋‍♀️ 소개
 
