@@ -23,7 +23,6 @@
 
 4. education
 
-* 안동대학교 - [link keyword][id]
-[id]: URL "https://www.andong.ac.kr/main/index.do"
+* 안동대학교 - "https://www.andong.ac.kr/main/index.do"
 
 <hr/>
