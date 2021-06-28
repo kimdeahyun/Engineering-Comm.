@@ -1,5 +1,4 @@
-> <img src="https://user-images.githubusercontent.com/55431809/123609091-5292fe80-d83a-11eb-971d-b8d199eb81a5.JPG" width="320px" height="240px"
-title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
+> <img src="https://user-images.githubusercontent.com/55431809/123609091-5292fe80-d83a-11eb-971d-b8d199eb81a5.JPG" width="320px" height="240px" title="px(픽셀)" align="left"></img><br/>
 
 > ***김대현  | 꾸준히 성장하는 인재***
 
