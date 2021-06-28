@@ -35,3 +35,5 @@ end code block.
 
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
+
+* 외부링크: <http://naver.com/>
