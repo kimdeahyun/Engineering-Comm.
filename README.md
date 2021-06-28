@@ -1,4 +1,6 @@
-> **![image](https://user-images.githubusercontent.com/55431809/123606345-c4b61400-d837-11eb-944b-12e48fafd1f7.png)김대현 | 꾸준히 성장하는 인재**
+> **<img src="https://user-images.githubusercontent.com/55431809/123606500-e911f080-d837-11eb-9817-d661bea50b43.png
+" width="320px" height="240px"
+title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>김대현 | 꾸준히 성장하는 인재**
 
 <hr/>
 
