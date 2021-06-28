@@ -28,6 +28,6 @@
 
 * 안동대학교 - **"https://www.andong.ac.kr/main/index.do"**
 
-<hr/>
 
-### 안동대학교
+
+<hr/>
