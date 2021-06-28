@@ -32,3 +32,6 @@ This is a normal paragraph:
 end code block.
 
 <hr/>
+
+Link: [Google][googlelink]
+[googlelink]: https://google.com "Go google"
