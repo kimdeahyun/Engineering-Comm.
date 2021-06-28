@@ -19,6 +19,7 @@ http://eogus0779@gmail.com/
 ## 🙋‍♀️ 소개
 
 ```
+<span style="color:red">붉은 색</span>
 * 안동대학교 컴퓨터공학과를 재직중 이며 
 * 녹색
 * 파랑
