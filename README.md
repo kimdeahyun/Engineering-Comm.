@@ -4,20 +4,20 @@ title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
 
 <hr/>
 
-## 🙋‍♀️ introduce
+## 🙋‍♀️ Introduce
 
 * 빨강
 * 녹색
 ***
 * 파랑
 
-## 📜 certificate
+## 📜 Certificate
 
 * 빨강
 * 녹색
 * 파랑
 
-## 🧩 active
+## 🧩 Active
 
 | | 이름 | 나이 | 생일 |
 | :-: | :-: | -: | :- |
@@ -25,7 +25,7 @@ title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
 | 2 | *짜장형* | 32 | 2/23|
 | 3 | 뿡뿡이 | 51 | 9/13 |
 
-## 4. education
+## 4. Education
 
 * 안동대학교 - **"https://www.andong.ac.kr/main/index.do"**
 
