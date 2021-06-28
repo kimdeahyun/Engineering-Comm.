@@ -17,12 +17,14 @@
 
 3. active
 
-* 빨강
-* 녹색
-* 파랑
+| | 이름 | 나이 | 생일 |
+| :-: | :-: | -: | :- |
+| 1 | 홍길동 | 23 | 4/2 |
+| 2 | *짜장형* | 32 | 2/23|
+| 3 | 뿡뿡이 | 51 | 9/13 |
 
 4. education
 
-* 안동대학교 - "https://www.andong.ac.kr/main/index.do"
+* 안동대학교 - **"https://www.andong.ac.kr/main/index.do"**
 
 <hr/>
