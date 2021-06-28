@@ -16,7 +16,7 @@ http://eogus0779@gmail.com/
 
 <hr/>
 
-#### 1. [소개][https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#%EF%B8%8F-%EC%86%8C%EA%B0%9C] 
+#### 1. [소개](https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#%EF%B8%8F-%EC%86%8C%EA%B0%9C)
 
 
 #### 2. 자격증
