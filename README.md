@@ -49,5 +49,10 @@ __double underscores__
 | | 이름 | 나이 | 생일 |
 | :-: | :-: | -: | :- |
 | 1 | 홍길동 | 23 | 4/2 |
-| 2 | 짜장형 | 32 | 2/23|
+| 2 | *짜장형* | 32 | 2/23|
 | 3 | 뿡뿡이 | 51 | 9/13 |
+
+<img src="<img src="https://user-images.githubusercontent.com/79644567/123537966-
+4b51ef00-d76d-11eb-9c92-ef95897e1a1e.PNG" width="320px" height="240px"
+title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>" width="320px" height="240px"
+title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
