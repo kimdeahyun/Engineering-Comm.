@@ -4,20 +4,20 @@ title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
 
 <hr/>
 
-## 🙋‍♀️ 소개
+## 🙋‍♀️ introduce
 
 * 빨강
 * 녹색
 ***
 * 파랑
 
-## 2. certificate
+## 📜 certificate
 
 * 빨강
 * 녹색
 * 파랑
 
-## 3. active
+## 🧩 active
 
 | | 이름 | 나이 | 생일 |
 | :-: | :-: | -: | :- |
