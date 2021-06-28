@@ -28,7 +28,8 @@
 
 * 안동대학교 - **"https://www.andong.ac.kr/main/index.do"**
 
-
+<img src="https://github.com/kimdeahyun/Engineering-Comm./issues/2#issue-931311623" width="320px" height="240px"
+title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
 
 
 <hr/>
