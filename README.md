@@ -70,9 +70,11 @@ http://eogus0779@gmail.com/
 
 ## 🖥 SW Language
 
+```
 1. JAVA
 2. C
 3. HTML
 4. C++
+```
 
 <hr/>
