@@ -90,6 +90,6 @@ http://eogus0779@gmail.com/
 
 ## 📈 프로젝트 
 
-[UP AND DOWN 최종 5.24 수정본 (1).pptx](https://github.com/kimdeahyun/Engineering-Comm./files/6737249/UP.AND.DOWN.5.24.1.pptx)
+[UP AND DOWN 최종 프로젝트.pptx](https://github.com/kimdeahyun/Engineering-Comm./files/6737256/UP.AND.DOWN.pptx)
 
 <hr/>
