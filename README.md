@@ -87,4 +87,9 @@ http://eogus0779@gmail.com/
 학교 등록금으로 사용하고 싶었기 때문에 그것만 보고 하다보니 참을성도 생기고
 끈기도 생겨서 끝까지 버틸 수 있었습니다. 
 ```
+
+## 📈 프로젝트 
+
+[UP AND DOWN 최종 5.24 수정본 (1).pptx](https://github.com/kimdeahyun/Engineering-Comm./files/6737249/UP.AND.DOWN.5.24.1.pptx)
+
 <hr/>
